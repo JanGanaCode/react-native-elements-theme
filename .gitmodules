@@ -1,0 +1,4 @@
+[submodule "node_modules/react-native-elements"]
+	path = node_modules/react-native-elements
+	url = https://github.com/react-native-training/react-native-elements.git
+	branch = theme
